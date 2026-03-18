@@ -1,2 +1,2 @@
 print("Hola, soy David")
-print("Estoy aprendiendo Git junto al equipo 10")
+print("Estoy aprendiendo Git de forma colaborativa")
